@@ -14,7 +14,6 @@ class PubSpider():
         return r.text
 
     def get_articles(self, query):
-
         pass
 
 
@@ -23,7 +22,7 @@ class PubSpider():
 
 
 
-def run_spider:
+def run_spider():
     spider = PubSpider()
 
 if __name__ == '__main__':
